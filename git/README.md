@@ -1,1 +1,5 @@
 # Git
+
+```
+git clone *url*
+´´
