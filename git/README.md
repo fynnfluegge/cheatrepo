@@ -1,5 +1,5 @@
 # Git
 
 ```
-git clone *url*
-´´
+git clone _url_
+```
