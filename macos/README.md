@@ -2,5 +2,7 @@
 
 ## shortcuts
 
-| ------------- |:-------------:|
-| show hidden files | ⌘ + ⇧, . |
+
+| Description       | Shortcut      | 
+| ----------------- |:-------------:|
+| show hidden files | ⌘ + ⇧, .      |
