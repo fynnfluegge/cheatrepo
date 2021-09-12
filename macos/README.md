@@ -2,4 +2,4 @@
 
 ## shortcuts
 
-show hidden files: Command + Shift + .
+show hidden files: ⌘ + ⇧, .
