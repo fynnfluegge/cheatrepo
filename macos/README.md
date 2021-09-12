@@ -1,6 +1,9 @@
-# macOS
+<div align="center">
+	<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple.svg" width="80"/>
+</div>
 
-## shortcuts
+
+# Shortcuts
 
 
 | Description       | Shortcut      | 
