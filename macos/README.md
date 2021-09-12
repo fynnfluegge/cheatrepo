@@ -6,4 +6,4 @@
 | Description       | Shortcut      | 
 | ----------------- |:-------------:|
 | show hidden files | ⌘ + ⇧, .      |
-| ~                 | ⌥, N          |
+| Tilde             | ⌥, N          |
