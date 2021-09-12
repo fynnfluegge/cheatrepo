@@ -2,4 +2,5 @@
 
 ## shortcuts
 
-show hidden files: ⌘ + ⇧, .
+
+> show hidden files: ⌘ + ⇧, .
