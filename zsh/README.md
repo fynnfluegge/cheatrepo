@@ -16,10 +16,14 @@ source ~/.zshrc
 # oh-my-zsh
 https://github.com/ohmyzsh/ohmyzsh
 
-
 ### Basic Installation
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### Update Manually
+```
+omz update
 ```
 
 ## Custom Plugins
