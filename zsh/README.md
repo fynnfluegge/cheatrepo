@@ -37,7 +37,7 @@ plugins=(
 
 ```
 
-## autosuggestion
+## zsh-autosuggestion
 https://github.com/zsh-users/zsh-autosuggestions
 
 ### Basic Installation
@@ -45,7 +45,7 @@ https://github.com/zsh-users/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
-## syntax highlight
+## zsh-syntax-highlighting
 https://github.com/zsh-users/zsh-syntax-highlighting
 
 ### Basic Installation
