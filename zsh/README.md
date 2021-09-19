@@ -1,31 +1,35 @@
-# zsh
+<div align="center">
+	<img src="shell_logo.png" width="80"/>
+</div>
+
+---
 
 ```
 brew install zsh
 ```
 
-´´´
+```
 nano ~/.zshrc
 source ~/.zshrc
-´´´
+```
 
-## oh-my-zsh
+# oh-my-zsh
 https://github.com/ohmyzsh/ohmyzsh
 
 
-### basic installation
+## basic installation
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-### custom plugins
+## custom plugins
 ./custom/plugons
 
 ## autosuggestion
 
 ## syntax highlight
 
-### custom themes
+## custom themes
 ./custom/theme
 
 ## powerlevel10k
