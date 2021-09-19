@@ -23,7 +23,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 ## Custom Plugins
-./custom/plugons
+```
+./custom/plugins
+```
 
 Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
 ```
@@ -53,7 +55,9 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 
 ## Custom Themes
+```
 ./custom/theme
+```
 
 ## powerlevel10k
 https://github.com/romkatv/powerlevel10k
