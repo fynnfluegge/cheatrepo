@@ -83,7 +83,9 @@ brew install tmux
 ```
 tmux split-window -v -p 30
 ```
-
+```
+tmux split-window -h -p 50
+```
 ```
 tmux unbind C-b &&
 tmux set-option -g prefix C-a &&
