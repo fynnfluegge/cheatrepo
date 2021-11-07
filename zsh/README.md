@@ -75,3 +75,17 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 
 ## tmux
+
+```
+brew install tmux
+```
+
+```
+tmux split-window -v -p 30
+```
+
+```
+tmux unbind C-b &&
+tmux set-option -g prefix C-a &&
+tmux bind-key C-a send-prefix &&
+```
