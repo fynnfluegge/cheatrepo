@@ -87,7 +87,5 @@ tmux split-window -v -p 30
 tmux split-window -h -p 50
 ```
 ```
-tmux unbind C-b &&
-tmux set-option -g prefix C-a &&
-tmux bind-key C-a send-prefix &&
+tmux unbind C-b && tmux set-option -g prefix C-a && tmux bind-key C-a send-prefix
 ```
