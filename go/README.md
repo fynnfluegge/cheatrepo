@@ -3,7 +3,7 @@
 </div>
 
 
-**Setup workspace**
+## Setup workspace
 
 
 ```
@@ -28,8 +28,8 @@ $GOPATH/pkg : contains every package objects
 $GOPATH/bin : The compiled binaries folder
 
 
+## init module
 
-**init module**
 ````
 go mod init module_name
 ````
