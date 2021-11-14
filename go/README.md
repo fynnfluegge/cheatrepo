@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg" width="80"/>
+	<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg" width="120"/>
 </div>
 
 
@@ -31,11 +31,11 @@ $GOPATH/bin : The compiled binaries folder
 
 ## Init Module
 
-````
+```
 go mod init module_name
-````
+```
 
 **update go.mod dependencies**
-````
+```
 go mod tidy
-````
+```
