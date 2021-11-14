@@ -35,7 +35,7 @@ $GOPATH/bin : The compiled binaries folder
 go mod init module_name
 ```
 
-## update go.mod dependencies
+## Update go.mod Dependencies
 ```
 go mod tidy
 ```
