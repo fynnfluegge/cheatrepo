@@ -28,7 +28,8 @@ $GOPATH/pkg : contains every package objects
 $GOPATH/bin : The compiled binaries folder
 
 
-## init module
+
+## Init Module
 
 ````
 go mod init module_name
