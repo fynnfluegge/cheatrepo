@@ -14,3 +14,8 @@ brew install wget
 ```
 brew install curl
 ```
+
+## nvm
+```
+brew install nvm
+```
