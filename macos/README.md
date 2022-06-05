@@ -10,3 +10,4 @@
 | ----------------- | ------------- |
 | show hidden files | ⌘ + ⇧, .      |
 | Tilde             | ⌥, N          |
+| Show/Hide Path Bar| ⌥ + ⌘, P	    |
